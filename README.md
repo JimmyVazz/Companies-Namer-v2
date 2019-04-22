@@ -1,2 +1,2 @@
-#Startup Namer 2 Version
+Startup Namer 2 Version
 
